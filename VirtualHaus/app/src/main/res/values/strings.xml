@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">VirtualHaus</string>
+    <string name="kitchen_label">Kitchen</string>
+    <string name="common_space_label">Living</string>
+    <string name="washroom_label">Wash</string>
+    <string name="bedroom_label">Bed</string>
+    <string name="finance_label">Finances</string>
+    <string name="laundry_label">Laundry</string>
+    <string name="bullet">\u2022</string>
+    <string name="in_use">Machine in use</string>
+    <string name="free_to_use">Machine free to use</string>
+    <string name="washer">Washer %1$s</string>
+    <string name="dryer">Dryer %1$s</string>
+    <string name="start">Start</string>
+    <string name="plus">+</string>
+    <string name="minus">-</string>
+    <string name="time_left">Time Left : %1$s</string>
+</resources>
